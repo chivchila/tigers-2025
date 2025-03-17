@@ -47,7 +47,7 @@ Steps to run the frontend server:
 
 4. Test the frontend: After starting the frontend, you can test it by visiting the following URL:
 
-`http://localhost:3001/next-delivery/ff535484-6880-4653-b06e-89983ecf4ed5`
+http://localhost:3001/next-delivery/ff535484-6880-4653-b06e-89983ecf4ed5
 
 This will show the user interface for the next delivery information.
 
